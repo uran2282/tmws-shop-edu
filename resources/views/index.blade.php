@@ -14,7 +14,7 @@
 <section id="main">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col"><h1 class="d-flex justify-content-center">{{$title}}</h1></div>
+			<div class="col"><h1 class="d-flex justify-content-center mt-4">{{$title}}</h1></div>
 		</div>
 	</div>
 </section>
