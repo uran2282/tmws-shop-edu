@@ -19,9 +19,10 @@ class PagesController extends Controller
     private function _get_info_data() {
     	$styles = '';
     	$body = '';
+        $title = 'Info';
 
 
 
-    	return compact( 'styles', 'body' );
+    	return compact( 'styles', 'body', 'title' );
     }
 }
